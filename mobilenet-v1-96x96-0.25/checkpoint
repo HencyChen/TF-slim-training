@@ -1,0 +1,6 @@
+model_checkpoint_path: "/media/covisgpu5/D/models/research/slim/mobilenet-v1-96x96-0.25/model.ckpt-1716565"
+all_model_checkpoint_paths: "/media/covisgpu5/D/models/research/slim/mobilenet-v1-96x96-0.25/model.ckpt-1616158"
+all_model_checkpoint_paths: "/media/covisgpu5/D/models/research/slim/mobilenet-v1-96x96-0.25/model.ckpt-1641603"
+all_model_checkpoint_paths: "/media/covisgpu5/D/models/research/slim/mobilenet-v1-96x96-0.25/model.ckpt-1666559"
+all_model_checkpoint_paths: "/media/covisgpu5/D/models/research/slim/mobilenet-v1-96x96-0.25/model.ckpt-1691452"
+all_model_checkpoint_paths: "/media/covisgpu5/D/models/research/slim/mobilenet-v1-96x96-0.25/model.ckpt-1716565"
